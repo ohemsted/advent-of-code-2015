@@ -19,7 +19,12 @@
     "aocrunner": "^1.10.0",
     "prettier": "^2.8.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@types/js-string-escape": "^1.0.3",
+    "@types/unescape-js": "^1.0.3",
+    "js-string-escape": "^1.0.1",
+    "unescape-js": "^1.1.4"
+  },
   "engines": {
     "node": ">=16.13.0"
   }
